@@ -1,0 +1,30 @@
+ body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+    }
+
+    .section1 {
+      height: 100vh; /* 100% of the viewport height */
+      background-image: url('BG.jpg');
+      color: #c71919;
+      text-align: center;
+      padding: 100px;
+      box-sizing: border-box;
+    }
+
+    .section2 {
+      height: 100vh;
+      background-image: url('BG.jpg');
+      color: #e32121;
+      text-align: center;
+      padding: 100px;
+      box-sizing: border-box;
+    }
+    .section3 {
+      height: 100vh;
+      background-image: url('BG.jpg');
+      color: #a1e94a;
+      text-align: center;
+      padding: 100px;
+      box-sizing: border-box;
+    }
